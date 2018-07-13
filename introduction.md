@@ -16,7 +16,7 @@ __23.207__ End-to-end Quality of Service (QoS) concept and architecture
 
 __NR NAS:__  
 >__24 series__--Signalling protocols ("stage 3") - user equipment to network:  
->__TS 24.501__	Non-Access-Stratum (NAS) protocol for 5G System (5GS); Stage 3	 
+>__TS 24.501__	Non-Access-Stratum (NAS) protocol for 5G System (5GS); Stage 3  
 >__TS 24.502__	Access to the 3GPP 5G Core Network (5GCN) via non-3GPP access networks  
 
 __NR L2:__  
