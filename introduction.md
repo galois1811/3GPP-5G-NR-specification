@@ -10,14 +10,14 @@ __23.207__ End-to-end Quality of Service (QoS) concept and architecture
 - __23.502__	Procedures for the 5G System  
   
 - __37 series(NSA)__--Multiple radio access technology aspects:  
-- __37.340__ (NR; Multi-connectivity; Overall description; Stage-2)  
-- __37.324__ (Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Service Data Adaptation Protocol (**SDAP**) specification)  
+    - __37.340__ (NR; Multi-connectivity; Overall description; Stage-2)  
+    - __37.324__ (Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Service Data Adaptation Protocol (**SDAP**) specification)  
   
 
 __NR NAS:__  
 - __24 series__--Signalling protocols ("stage 3") - user equipment to network:  
-- __TS 24.501__	Non-Access-Stratum (NAS) protocol for 5G System (5GS); Stage 3  
-- __TS 24.502__	Access to the 3GPP 5G Core Network (5GCN) via non-3GPP access networks  
+    - __TS 24.501__	Non-Access-Stratum (NAS) protocol for 5G System (5GS); Stage 3  
+    - __TS 24.502__	Access to the 3GPP 5G Core Network (5GCN) via non-3GPP access networks  
 
 __NR L2:__  
 - __38.321__ (PDCP)  
