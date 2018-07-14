@@ -11,7 +11,7 @@ __23.207__ End-to-end Quality of Service (QoS) concept and architecture
 >
 >__37 series(NSA)__--Multiple radio access technology aspects:  
 >__37.340__ (NR; Multi-connectivity; Overall description; Stage-2)  
->__37.324__ (Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Service Data Adaptation Protocol (SDAP) specification)  
+>__37.324__ Evolved Universal Terrestrial Radio Access (E-UTRA) and NR; Service Data Adaptation Protocol (__SDAP__) specification  
   
 
 __NR NAS:__  
